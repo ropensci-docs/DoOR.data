@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "49fc21074e157327aa9aea12ba7a5024fb4b991d",
+    "author": "Dahaniel <daniel@muench.bio>",
+    "time": "2022-01-27 12:40:58",
+    "files": 92,
+    "merge": false,
+    "message": "reran roxygen\n"
+  },
+  "repo": "https://github.com/ropensci/DoOR.data",
+  "pkg": "DoOR.data"
+}
