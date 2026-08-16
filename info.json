@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "db323a496577c4b4a72b5c2fcd1859e07521ffb5",
+    "author": "Dahaniel <daniel@muench.bio>",
+    "time": "2026-07-17T21:42:32Z",
+    "files": 81,
+    "merge": false,
+    "message": "fixed several duplicated CIDs (mostly isomeres with wrong CID attached\n\nfixes #25\n"
+  },
+  "repo": "https://github.com/ropensci/DoOR.data",
+  "pkg": "DoOR.data",
+  "time": "2026-08-16T05:09:32Z"
+}
